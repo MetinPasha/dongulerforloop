@@ -1,0 +1,14 @@
+D:\Sites\dongulerforloop\bin\Debug\net6.0\dongulerforloop.exe
+D:\Sites\dongulerforloop\bin\Debug\net6.0\dongulerforloop.deps.json
+D:\Sites\dongulerforloop\bin\Debug\net6.0\dongulerforloop.runtimeconfig.json
+D:\Sites\dongulerforloop\bin\Debug\net6.0\dongulerforloop.dll
+D:\Sites\dongulerforloop\bin\Debug\net6.0\dongulerforloop.pdb
+D:\Sites\dongulerforloop\obj\Debug\net6.0\dongulerforloop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sites\dongulerforloop\obj\Debug\net6.0\dongulerforloop.AssemblyInfoInputs.cache
+D:\Sites\dongulerforloop\obj\Debug\net6.0\dongulerforloop.AssemblyInfo.cs
+D:\Sites\dongulerforloop\obj\Debug\net6.0\dongulerforloop.csproj.CoreCompileInputs.cache
+D:\Sites\dongulerforloop\obj\Debug\net6.0\dongulerforloop.dll
+D:\Sites\dongulerforloop\obj\Debug\net6.0\refint\dongulerforloop.dll
+D:\Sites\dongulerforloop\obj\Debug\net6.0\dongulerforloop.pdb
+D:\Sites\dongulerforloop\obj\Debug\net6.0\dongulerforloop.genruntimeconfig.cache
+D:\Sites\dongulerforloop\obj\Debug\net6.0\ref\dongulerforloop.dll
